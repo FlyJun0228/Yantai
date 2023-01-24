@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="烟台通">
+        <menu>
+            <item
+                android:id="@+id/music"
+
+                android:title="音乐播放" />
+            <item
+                android:id="@+id/video"
+
+                android:title="视频播放" />
+            <item
+                android:id="@+id/settings"
+
+                android:title="信息设置" />
+            <item
+                android:id="@+id/web"
+
+                android:title="老烟台官网" />
+            <item
+                android:id="@+id/quit"
+
+                android:title="退出" />
+        </menu>
+    </item>
+
+</menu>
